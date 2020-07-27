@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "First Post Assignment 1"
+title:      "First Post"
 date:       2020-05-20 01:34:13 -0400
 permalink:  first_post_assignment_1
 ---
